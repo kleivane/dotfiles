@@ -11,6 +11,6 @@ Run `sh installConfig.sh`
 * Identify name & email for git 
 
 ```
-git config --global user.name 
-git config --global user.email
+git config --global user.name "Name"
+git config --global user.email "email"
 ```
