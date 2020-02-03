@@ -11,11 +11,13 @@ brew install fish
 #
 brew install caskroom/cask/brew-cask
 
-
 #
 # Cask packages 
 #
 brew cask install dropbox
-brew cask install google-chrome
-brew cask install vlc
-brew cask install slack
+brew cask install atom
+brew cask install intellij-idea
+brew cask install spotify
+brew cask install postman
+#brew cask install google-chrome
+#brew cask install slack
