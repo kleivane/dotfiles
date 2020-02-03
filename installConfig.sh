@@ -4,7 +4,7 @@
 #
 brew install node
 brew install wget
-brew install zsh
+brew install fish
 
 #
 # Install Cask itself
