@@ -4,8 +4,8 @@
 #
 brew install node
 brew install wget
-# brew install fish - drop fish for zsh
-
+brew install tree
+brew install aws-vault
 #
 # Install Cask itself
 #
