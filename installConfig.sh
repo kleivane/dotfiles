@@ -8,6 +8,7 @@ brew install wget
 brew install tree
 brew install aws-vault
 brew install terraform
+brew install direnv
 
 #
 # Install Cask itself
